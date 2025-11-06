@@ -1,0 +1,16 @@
+.container {
+  background: #f0f0f0;
+  height: 100vh;
+}
+
+.img-box {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  width: 150px;
+}
+
+.img-box img {
+  width: 100%;
+  border-radius: 10px;
+}
